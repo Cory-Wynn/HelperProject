@@ -1,0 +1,6 @@
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers\bin\Debug\Helpers.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers\bin\Debug\Helpers.pdb
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers\obj\Debug\Helpers.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers\obj\Debug\Helpers.pdb
