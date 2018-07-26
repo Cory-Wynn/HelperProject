@@ -1,0 +1,16 @@
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Helpers.Tests.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Helpers.Tests.pdb
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Helpers.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Helpers.pdb
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\obj\Debug\Helpers.Tests.csprojAssemblyReference.cache
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\obj\Debug\Helpers.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\obj\Debug\Helpers.Tests.csproj.CopyComplete
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\obj\Debug\Helpers.Tests.dll
+C:\Users\cory.wynn\Desktop\Git Repos\Helpers\Helpers.Tests\obj\Debug\Helpers.Tests.pdb

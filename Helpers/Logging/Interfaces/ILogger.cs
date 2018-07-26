@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Helpers.Logging.Interfaces
 {
-    interface ILogger
+    public interface ILogger
     {
         void Error(string text);
 
