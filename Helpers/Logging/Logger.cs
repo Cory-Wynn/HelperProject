@@ -9,7 +9,7 @@ using Helpers.Logging.Interfaces;
 
 namespace Helpers.Logging
 {
-    class Logger : ILogger
+    public class Logger : ILogger
     {
         private readonly string _datetimeFormat;
         private readonly string _fileName;
