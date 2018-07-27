@@ -8,5 +8,14 @@ namespace Helpers.Extensions
 {
     public static class DecimalExtensions
     {
+        /// <summary>
+        /// Extension method to convert a decimal into a formatted number with commas.
+        /// </summary>
+        /// <param name="Decimal">The decimal to convert.</param>
+        /// <returns>The formatted number as a string. (Input: 10000.00 Output: 10,000.00)</returns>
+        public static string ToNumberFormat(this decimal? Decimal)
+        {
+            return Decimal.HasValue ? $"{Decimal:N}" : "";
+        }
     }
 }
