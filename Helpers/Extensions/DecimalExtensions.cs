@@ -25,7 +25,7 @@ namespace Helpers.Extensions
         /// <returns>The formatted number as a string. (Input: 0.8526 Output: 85.26 %)</returns>
         public static string ToPercentageFormat(this decimal? Decimal)
         {
-            return Decimal.HasValue ? $"{Decimal:P2}." : "";
+            return Decimal.HasValue ? $"{Decimal:P2}" : "";
         }
     }
 }
