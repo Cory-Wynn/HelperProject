@@ -17,5 +17,15 @@ namespace Helpers.Extensions
         {
             return Decimal.HasValue ? $"{Decimal:N}" : "";
         }
+
+        /// <summary>
+        /// Extension method to convert a decimal into a formatted percentage.
+        /// </summary>
+        /// <param name="Decimal">The decimal to convert.</param>
+        /// <returns>The formatted number as a string. (Input: 0.8526 Output: 85.26 %)</returns>
+        public static string ToPercentageFormat(this decimal? Decimal)
+        {
+            return Decimal.HasValue ? $"{Decimal:P2}." : "";
+        }
     }
 }
