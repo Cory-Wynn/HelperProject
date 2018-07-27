@@ -19,7 +19,7 @@ namespace Helpers.Extensions
         }
 
         /// <summary>
-        /// Extension method to convert a decimal into a formatted percentage.
+        /// Extension method to convert a decimal into a formatted percentage (2 decimal places).
         /// </summary>
         /// <param name="Decimal">The decimal to convert.</param>
         /// <returns>The formatted number as a string. (Input: 0.8526 Output: 85.26 %)</returns>
