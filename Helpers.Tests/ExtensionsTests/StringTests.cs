@@ -18,7 +18,6 @@ namespace Helpers.Tests.ExtensionsTests
 
             //Assert
             Assert.AreEqual("HelloWorld!", result);
-
         }
     }
 }
