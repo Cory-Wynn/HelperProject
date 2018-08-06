@@ -11,10 +11,10 @@ namespace Helpers.Tests.ExtensionsTests
         public void ToNumberFormatTest()
         {
             //Arrange
-            var d = 10000.00m;
+            decimal? d = 10000.00m;
 
             //Act
-            var result = DecimalExtensions.ToNumberFormat(d);
+            var result = d.ToNumberFormat();
 
             //Assert
             Assert.AreEqual("10,000.00", result);
@@ -24,10 +24,10 @@ namespace Helpers.Tests.ExtensionsTests
         public void ToPercentageFormat()
         {
             //Arrange
-            var d = 0.8526m;
+            decimal? d = 0.8526m;
 
             //Act
-            var result = DecimalExtensions.ToPercentageFormat(d);
+            var result = d.ToPercentageFormat();
 
             //Assert
             Assert.AreEqual("85.26 %", result);

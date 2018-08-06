@@ -14,7 +14,7 @@ namespace Helpers.Extensions
         /// </summary>
         /// <param name="str">The string.</param>
         /// <returns>The string with white space removed.</returns>
-        public static string RemoveWhiteSpace(string str)
+        public static string RemoveWhiteSpace(this string str)
         {
             return Regex.Replace(str, @"\s+", "");
         }

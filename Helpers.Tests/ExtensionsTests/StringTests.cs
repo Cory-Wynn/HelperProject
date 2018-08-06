@@ -14,7 +14,7 @@ namespace Helpers.Tests.ExtensionsTests
             var s = "Hello World!";
 
             //Act
-            var result = StringExtensions.RemoveWhiteSpace(s);
+            var result = s.RemoveWhiteSpace();
 
             //Assert
             Assert.AreEqual("HelloWorld!", result);
